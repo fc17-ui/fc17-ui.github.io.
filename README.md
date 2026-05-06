@@ -1,10 +1,25 @@
 # fc17-ui.github.io.
-# Hello World!
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Experiment</title>
+  <!-- viewport setup -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- lab.js library and experiment code -->
+  ${ header }
+</head>
+<body>
+  <!-- If you'd rather have a container with a fixed width
+       and variable height, try removing the fullscreen class below -->
+  <div class="container fullscreen" data-labjs-section="main">
+    <main class="content-vertical-center content-horizontal-center">
+      <div>
+        <h2>Loading Experiment</h2>
+        <p>The experiment is loading and should start in a few seconds</p>
+      </div>
+    </main>
+  </div>
+</body>
+</html>
 
-My name is Kevin, and here are a few things I'm working on:
-
-- Happy Coding
-- Google
-- Millersville University
-
-I **love** nerding out about creative coding, so don't hesitate to reach out!
